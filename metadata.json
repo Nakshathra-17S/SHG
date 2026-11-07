@@ -1,0 +1,6 @@
+{
+  "name": "SHGFlow AI — Karnataka",
+  "description": "Sanjeevini KSRLPS (Govt of Karnataka) Smart Production, Fair Allocation & Trust Operating System for Rural Mahila SHGs - GAVS Tech4Bharat Problem 8.1",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
